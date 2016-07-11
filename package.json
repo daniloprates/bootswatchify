@@ -1,0 +1,69 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "../bootswatchify",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "../bootswatchify",
+        "spec": "/Users/cin_dprates/d/dev/bootswatchify",
+        "type": "directory"
+      },
+      "/Users/cin_dprates/d/dev/md-pages"
+    ]
+  ],
+  "_from": "../bootswatchify",
+  "_id": "bootswatchify@1.0.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/bootswatchify",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "../bootswatchify",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "../bootswatchify",
+    "spec": "/Users/cin_dprates/d/dev/bootswatchify",
+    "type": "directory"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../bootswatchify",
+  "_shasum": "668fb738950633dba694c06cb05b64b9e8615a68",
+  "_shrinkwrap": null,
+  "_spec": "../bootswatchify",
+  "_where": "/Users/cin_dprates/d/dev/md-pages",
+  "author": {
+    "name": "Danilo Prates",
+    "email": "daniloprates@gmail.com",
+    "url": "http://daniloprates.github.io"
+  },
+  "bugs": {
+    "url": "https://github.com/daniloprates/bootswatchify/issues"
+  },
+  "dependencies": {},
+  "description": "Browserify loader for Bootswatch ",
+  "devDependencies": {
+    "bootswatch": "^3.3.6",
+    "browserify-css": "^0.9.1",
+    "path": "^0.12.7",
+    "shelljs": "0.7.0"
+  },
+  "homepage": "https://github.com/daniloprates/bootswatchify#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "bootswatchify",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniloprates/bootswatchify.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
